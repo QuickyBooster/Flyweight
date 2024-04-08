@@ -1,0 +1,14 @@
+F:\SE401\Flyweight\Flyweight\bin\Debug\net8.0\Flyweight.exe
+F:\SE401\Flyweight\Flyweight\bin\Debug\net8.0\Flyweight.deps.json
+F:\SE401\Flyweight\Flyweight\bin\Debug\net8.0\Flyweight.runtimeconfig.json
+F:\SE401\Flyweight\Flyweight\bin\Debug\net8.0\Flyweight.dll
+F:\SE401\Flyweight\Flyweight\bin\Debug\net8.0\Flyweight.pdb
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfoInputs.cache
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfo.cs
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.csproj.CoreCompileInputs.cache
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.dll
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\refint\Flyweight.dll
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.pdb
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.genruntimeconfig.cache
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\ref\Flyweight.dll
