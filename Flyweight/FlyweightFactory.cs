@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Flyweight
+﻿namespace Flyweight
 {
 	public class PlayerFactory
 	{
@@ -27,11 +21,11 @@ namespace Flyweight
 				switch (type)
 				{
 					case "Terrorist":
-						Console.WriteLine("Terrorist Created");
+						Console.WriteLine("---------Terrorist Created");
 						player = new Terrorist();
 						break;
 					case "CounterTerrorist":
-						Console.WriteLine("Counter Terrorist Created");
+						Console.WriteLine("---------Counter Terrorist Created");
 						player = new CounterTerrorist();
 						break;
 					default:

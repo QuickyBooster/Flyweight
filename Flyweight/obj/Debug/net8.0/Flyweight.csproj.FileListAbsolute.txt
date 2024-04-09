@@ -12,3 +12,4 @@ F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\refint\Flyweight.dll
 F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.pdb
 F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.genruntimeconfig.cache
 F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\ref\Flyweight.dll
+F:\SE401\Flyweight\Flyweight\obj\Debug\net8.0\Flyweight.sourcelink.json

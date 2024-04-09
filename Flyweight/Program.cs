@@ -1,56 +1,44 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Flyweight
+﻿namespace Flyweight
 {
-	
+
 	public class CounterStrike
 	{
-		// All player types and weapon (used by GetRandPlayerType()
-		// and GetRandWeapon())
+		// Danh sách loại player
+		// Danh sách loại vũ khí
 		private static string[] playerTypes = { "Terrorist", "CounterTerrorist" };
 		private static string[] weapons = { "AK-47", "Maverick", "Gut Knife", "Desert Eagle" };
 
-		// Driver code
 		public static void Main(string[] args)
 		{
-			/* Assume that we have a total of 10 players
-			in the game. */
+			/* 10 players 1 map */
 			for (int i = 0; i < 10; i++)
 			{
-				/* getPlayer() is called simply using the class
-				name since the method is a static one */
+				/* Tạo ra player từ PlayerFactor ~ FlyweightFactory */
 				IPlayer player = PlayerFactory.GetPlayer(GetRandPlayerType());
 
-				/* Assign a weapon chosen randomly uniformly
-				from the weapon array */
+				/* Lấy vũ khí cho mỗi player */
 				player.AssignWeapon(GetRandWeapon());
 
-				// Send this player on a mission
+				// Cho player thực hiện nhiệm vụ
 				player.Mission();
 			}
 		}
 
-		// Utility methods to get a random player type and
-		// weapon
+		// Hàm lấy ngẫu nhiên loại player và vũ khí
 		public static string GetRandPlayerType()
 		{
 			Random r = new Random();
 
-			// Will return an integer between [0,2)
 			int randInt = r.Next(playerTypes.Length);
 
-			// return the player stored at index 'randInt'
 			return playerTypes[randInt];
 		}
 		public static string GetRandWeapon()
 		{
 			Random r = new Random();
 
-			// Will return an integer between [0,5)
 			int randInt = r.Next(weapons.Length);
 
-			// Return the weapon stored at index 'randInt'
 			return weapons[randInt];
 		}
 	}

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|f:\\se401\\flyweight\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|f:\\se401\\flyweight\\flyweight\\concreteflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\concreteflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|f:\\se401\\flyweight\\flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|f:\\se401\\flyweight\\flyweight\\concreteflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\concreteflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|f:\\se401\\flyweight\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AB5A4D-8B3E-4805-AB4A-527BEC37B152}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,20 +36,20 @@
               "RelativeDocumentMoniker": "Flyweight\\FlyweightFactory.cs",
               "ToolTip": "F:\\SE401\\Flyweight\\Flyweight\\FlyweightFactory.cs",
               "RelativeToolTip": "Flyweight\\FlyweightFactory.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAASwCoAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T23:26:31.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ConcreteFlyweight.cs",
               "DocumentMoniker": "F:\\SE401\\Flyweight\\Flyweight\\ConcreteFlyweight.cs",
               "RelativeDocumentMoniker": "Flyweight\\ConcreteFlyweight.cs",
               "ToolTip": "F:\\SE401\\Flyweight\\Flyweight\\ConcreteFlyweight.cs",
               "RelativeToolTip": "Flyweight\\ConcreteFlyweight.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwBIAAAAZAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T23:25:51.002Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "Flyweight\\Flyweight.cs",
               "ToolTip": "F:\\SE401\\Flyweight\\Flyweight\\Flyweight.cs",
               "RelativeToolTip": "Flyweight\\Flyweight.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAvwAsAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T23:25:02.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SE401\\Flyweight\\Flyweight\\Program.cs",
               "RelativeDocumentMoniker": "Flyweight\\Program.cs",
               "ToolTip": "F:\\SE401\\Flyweight\\Flyweight\\Program.cs",
               "RelativeToolTip": "Flyweight\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T23:05:15.314Z",
               "EditorCaption": ""

@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Flyweight
+﻿namespace Flyweight
 {
 	public class Terrorist : IPlayer
 	{
-		// Intrinsic Attribute
+		// Trạng thái nội tại
 		private readonly string task;
 
-		// Extrinsic Attribute
+		// Ngoại tại
 		private string weapon;
 
 		public Terrorist()
@@ -20,23 +14,19 @@ namespace Flyweight
 		}
 		public void AssignWeapon(string weapon)
 		{
-			// Assign a weapon
 			this.weapon = weapon;
 		}
 		public void Mission()
 		{
-			// Work on the Mission
+			// Tương tác với nội tại
 			Console.WriteLine($"Terrorist with weapon {weapon} | Task is {task}");
 		}
 	}
 
-	// CounterTerrorist must have weapon and mission
 	public class CounterTerrorist : IPlayer
 	{
-		// Intrinsic Attribute
 		private readonly string task;
 
-		// Extrinsic Attribute
 		private string weapon;
 
 		public CounterTerrorist()
